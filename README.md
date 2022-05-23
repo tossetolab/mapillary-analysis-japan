@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8e8b8cf2a2fa2499bf95a49627de7c0c5f37bd5b7a8f9c420806d122b04e66a0
-size 67
+This data is the aggregate data of Mapillary POIs across Japan used in the following paper, which was accepted to the FOSS4G academic track. For details, see below manuscript: Seto, T. and Nishimura, Y. 2022. Analysis of the spatiotemporal accumulation process of Mapillary data and its relationship with OSM road data: A case study in Japan. This data is provided under CC-BY-SA 4.0.
